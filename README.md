@@ -1,0 +1,1 @@
+# Hibernate_project_concept_impl
